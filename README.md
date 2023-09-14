@@ -1,4 +1,4 @@
-# SGAI---Prediction-Models-for-Professional-Experience
+# SGAI - Prediction Models for Professional Experience
 
 Salary prediction holds significant importance for both employers and employees. While prediction models can be trained using salary datasets, they typically lack information regarding a crucial factor for the salary: professional experience.
 
