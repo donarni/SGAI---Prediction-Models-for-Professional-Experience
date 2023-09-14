@@ -1,0 +1,44 @@
+professional_experience =
+-0.3521881281425267
+- 0.2388498113478866 * age
+- 0.22571035010002477 * highest_education_1
+- 1.7210781037966174 * highest_education_2
+- 3.040117113434765 * highest_education_3
++ 1.1602731120636542 * highest_education_4
++ 0.4536719775522732 * highest_education_5
++ 3.372960477722633 * highest_education_6
++ 0.018161874103281073 * power(age, 2)
+- 0.024408924174622204 * age * highest_education_1
++ 0.09910148830801652 * age * highest_education_2
++ 0.19221600018092144 * age * highest_education_3
+- 0.145202121612921 * age * highest_education_4
+- 0.07491559500637429 * age * highest_education_5
+- 0.28564065904481817 * age * highest_education_6
+- 0.22571035010043305 * power(highest_education_1, 2)
++ 4.440892098500626e-16 * highest_education_1 * highest_education_2
++ 4.440892098500626e-16 * highest_education_1 * highest_education_3
++ 8.881784197001252e-16 * highest_education_1 * highest_education_4
+- 1.7210781037937537 * power(highest_education_2, 2)
+- 3.0401171134353877 * power(highest_education_3, 2)
++ 1.1602731120617302 * power(highest_education_4, 2)
++ 0.4536719775462545 * power(highest_education_5, 2)
++ 3.372960477721602 * power(highest_education_6, 2)
+- 0.00010803090414336781 * power(age, 3)
++ 0.002637366798383678 * power(age, 2) * highest_education_1
++ 0.00033894032826641327 * power(age, 2) * highest_education_2
+- 0.00143014728267042 * power(age, 2) * highest_education_3
++ 0.005410128215021994 * power(age, 2) * highest_education_4
++ 0.003291885504855454 * power(age, 2) * highest_education_5
++ 0.00791370050248508 * power(age, 2) * highest_education_6
+- 0.024408924174665454 * age * power(highest_education_1, 2)
++ 0.09910148830788115 * age * power(highest_education_2, 2)
++ 0.19221600018033544 * age * power(highest_education_3, 2)
+- 0.1452021216129129 * age * power(highest_education_4, 2)
+- 0.0749155950064615 * age * power(highest_education_5, 2)
+- 0.2856406590448533 * age * power(highest_education_6, 2)
+- 0.22571035010043305 * power(highest_education_1, 3)
+- 1.7210781037937566 * power(highest_education_2, 3)
+- 3.0401171134353877 * power(highest_education_3, 3)
++ 1.160273112061736 * power(highest_education_4, 3)
++ 0.453671977546259 * power(highest_education_5, 3)
++ 3.3729604777216053 * power(highest_education_6, 3)

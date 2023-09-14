@@ -1,0 +1,22 @@
+professional_experience =
+-9.886758143822904
++ 0.3040658138287003 * age
++ 0.5685803934547689 * highest_education_1
+- 0.07593556427522737 * highest_education_2
+- 0.0741277007203575 * highest_education_3
+- 0.3974866059080846 * highest_education_4
++ 0.3235799781814613 * highest_education_5
+- 0.3446105007325599 * highest_education_6
++ 0.006100832120036182 * power(age, 2)
++ 0.023725181404565716 * age * highest_education_1
++ 0.08964563303865657 * age * highest_education_2
++ 0.10499813061429779 * age * highest_education_3
++ 0.05058098886122705 * age * highest_education_4
++ 0.00906222632293261 * age * highest_education_5
++ 0.026053653587000375 * age * highest_education_6
++ 0.5685803934547695 * power(highest_education_1, 2)
+- 0.07593556427522785 * power(highest_education_2, 2)
+- 0.07412770072035463 * power(highest_education_3, 2)
+- 0.39748660590808554 * power(highest_education_4, 2)
++ 0.3235799781814566 * power(highest_education_5, 2)
+- 0.34461050073255933 * power(highest_education_6, 2)

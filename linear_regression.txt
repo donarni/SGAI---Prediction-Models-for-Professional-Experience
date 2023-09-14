@@ -1,0 +1,9 @@
+professional_experience =
+-20.380226554034984
++ 0.8830823907462164 * age
++ 0.678084866789912 * highest_education_1
++ 1.5795180059416305 * highest_education_2
++ 2.3758487277667686 * highest_education_3
+- 0.8502445969668557 * highest_education_4
+- 1.5080693018434659 * highest_education_5
+- 2.2751377016880254 * highest_education_6
