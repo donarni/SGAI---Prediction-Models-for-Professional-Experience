@@ -1,0 +1,367 @@
+professional_experience =
+-2.387507965274848
+- 0.11472123093714247 * age
++ 0.16757000962422597 * highest_education_1
+- 1.6271985286978763 * highest_education_2
+- 1.3306171748561468 * highest_education_3
++ 1.540585555088829 * highest_education_4
++ 0.46625514355742564 * highest_education_5
++ 0.7834049952988091 * highest_education_6
++ 2.310123618686877 * occupational_area_0
+- 1.2132161015668743 * occupational_area_1
+- 1.4422591977441823 * occupational_area_2
+- 1.372974107845525 * occupational_area_3
++ 0.5319621720914788 * occupational_area_4
++ 0.03849252272193031 * occupational_area_5
++ 0.9318655424708957 * occupational_area_6
+- 0.3627105585301017 * occupational_area_7
++ 1.4984837861801719 * occupational_area_8
+- 0.9197676765068579 * occupational_area_9
++ 0.014698364193274575 * power(age, 2)
+- 0.03724810857224645 * age * highest_education_1
++ 0.11388943452693152 * age * highest_education_2
++ 0.11734618391218636 * age * highest_education_3
+- 0.13879643344360565 * age * highest_education_4
+- 0.04802614971969715 * age * highest_education_5
+- 0.12188616040770583 * age * highest_education_6
+- 0.12263260727326031 * age * occupational_area_0
++ 0.09631853917861719 * age * occupational_area_1
++ 0.10020300509280641 * age * occupational_area_2
++ 0.0521329596419306 * age * occupational_area_3
+- 0.06975512773711418 * age * occupational_area_4
+- 0.051135410947407506 * age * occupational_area_5
+- 0.053375580533336575 * age * occupational_area_6
++ 0.00382374239017344 * age * occupational_area_7
+- 0.14392423272152832 * age * occupational_area_8
++ 0.07362347922074561 * age * occupational_area_9
++ 0.16757000962562368 * power(highest_education_1, 2)
++ 2.6256774532384952e-14 * highest_education_1 * highest_education_2
++ 4.601874437071274e-14 * highest_education_1 * highest_education_3
++ 3.22741833258533e-13 * highest_education_1 * highest_education_4
++ 4.8183679268731794e-14 * highest_education_1 * highest_education_5
+- 8.41826608422025e-14 * highest_education_1 * highest_education_6
+- 1.5982263477154146 * highest_education_1 * occupational_area_0
++ 0.687210295407779 * highest_education_1 * occupational_area_1
++ 0.1516969271991113 * highest_education_1 * occupational_area_2
++ 0.16458886215845867 * highest_education_1 * occupational_area_3
+- 0.19489572226659255 * highest_education_1 * occupational_area_4
++ 0.9656276763575927 * highest_education_1 * occupational_area_5
+- 0.6161695419457924 * highest_education_1 * occupational_area_6
++ 0.16664506611982727 * highest_education_1 * occupational_area_7
++ 0.2798775504780194 * highest_education_1 * occupational_area_8
++ 0.1612152438330655 * highest_education_1 * occupational_area_9
+- 1.627198528694798 * power(highest_education_2, 2)
+- 1.2735645871231327e-13 * highest_education_2 * highest_education_3
+- 5.752343046339092e-14 * highest_education_2 * highest_education_4
++ 1.655897641228421e-13 * highest_education_2 * highest_education_5
++ 1.2137513216714524e-13 * highest_education_2 * highest_education_6
+- 2.4299969359671825 * highest_education_2 * occupational_area_0
+- 0.21141877036198609 * highest_education_2 * occupational_area_1
+- 0.11148460515914216 * highest_education_2 * occupational_area_2
++ 0.9758020712570984 * highest_education_2 * occupational_area_3
+- 0.1022466992241524 * highest_education_2 * occupational_area_4
++ 1.0458529065594748 * highest_education_2 * occupational_area_5
+- 0.8666487953990432 * highest_education_2 * occupational_area_6
++ 0.02548360457035931 * highest_education_2 * occupational_area_7
++ 0.37082235813053005 * highest_education_2 * occupational_area_8
+- 0.32336366310109965 * highest_education_2 * occupational_area_9
+- 1.3306171748677784 * power(highest_education_3, 2)
+- 1.8185453143360064e-13 * highest_education_3 * highest_education_4
+- 1.4329509800958817e-13 * highest_education_3 * highest_education_5
+- 1.3461454173580023e-14 * highest_education_3 * highest_education_6
++ 0.0008479045280176988 * highest_education_3 * occupational_area_0
++ 1.0122367544872648 * highest_education_3 * occupational_area_1
+- 1.2024134197736336 * highest_education_3 * occupational_area_2
+- 0.06318787479715245 * highest_education_3 * occupational_area_3
++ 0.29398457612809115 * highest_education_3 * occupational_area_4
++ 1.7882109637482937 * highest_education_3 * occupational_area_5
+- 1.8485615545015797 * highest_education_3 * occupational_area_6
++ 0.09636905142958704 * highest_education_3 * occupational_area_7
+- 0.705928447641195 * highest_education_3 * occupational_area_8
+- 0.7021751284748559 * highest_education_3 * occupational_area_9
++ 1.5405855550817504 * power(highest_education_4, 2)
++ 2.3092638912203256e-14 * highest_education_4 * highest_education_5
++ 1.0436096431476471e-14 * highest_education_4 * highest_education_6
++ 6.468893436287112 * highest_education_4 * occupational_area_0
+- 2.5306274634076775 * highest_education_4 * occupational_area_1
+- 1.0878389634147732 * highest_education_4 * occupational_area_2
++ 0.3987091886109039 * highest_education_4 * occupational_area_3
+- 0.07055760481626312 * highest_education_4 * occupational_area_4
+- 0.04062466187540234 * highest_education_4 * occupational_area_5
+- 0.9287052227610263 * highest_education_4 * occupational_area_6
++ 0.28052771288513306 * highest_education_4 * occupational_area_7
+- 0.17418252815990343 * highest_education_4 * occupational_area_8
+- 0.7750083382664552 * highest_education_4 * occupational_area_9
++ 0.46625514355115355 * power(highest_education_5, 2)
++ 1.7208456881689926e-14 * highest_education_5 * highest_education_6
+- 0.1313944384212069 * highest_education_5 * occupational_area_0
+- 0.1699295436394586 * highest_education_5 * occupational_area_1
+- 0.9948155120246148 * highest_education_5 * occupational_area_2
++ 0.18227560818759295 * highest_education_5 * occupational_area_3
+- 0.0833716903756689 * highest_education_5 * occupational_area_4
++ 1.9864471665222883 * highest_education_5 * occupational_area_5
+- 0.5704111043556455 * highest_education_5 * occupational_area_6
++ 0.1801767789916841 * highest_education_5 * occupational_area_7
++ 0.09971340775856333 * highest_education_5 * occupational_area_8
+- 0.03243552909248239 * highest_education_5 * occupational_area_9
++ 0.783404995304306 * power(highest_education_6, 2)
++ 6.217248937900877e-15 * highest_education_6 * occupational_area_0
+- 0.0006873740552283072 * highest_education_6 * occupational_area_1
++ 1.802596375428959 * highest_education_6 * occupational_area_2
+- 3.0311619632553937 * highest_education_6 * occupational_area_3
++ 0.6890493126511269 * highest_education_6 * occupational_area_4
+- 5.70702152858777 * highest_education_6 * occupational_area_5
++ 5.762361761438146 * highest_education_6 * occupational_area_6
+- 1.1119127725325586 * highest_education_6 * occupational_area_7
++ 1.628181445613804 * highest_education_6 * occupational_area_8
++ 0.7519997386032151 * highest_education_6 * occupational_area_9
++ 2.310123618711409 * power(occupational_area_0, 2)
++ 8.881784197001252e-16 * occupational_area_0 * occupational_area_1
+- 2.8727020762175925e-15 * occupational_area_0 * occupational_area_2
++ 1.3322676295501878e-15 * occupational_area_0 * occupational_area_3
++ 4.440892098500626e-16 * occupational_area_0 * occupational_area_4
++ 9.43689570931383e-16 * occupational_area_0 * occupational_area_5
+- 1.0547118733938987e-15 * occupational_area_0 * occupational_area_6
+- 1.9984014443252818e-15 * occupational_area_0 * occupational_area_7
+- 1.9984014443252818e-15 * occupational_area_0 * occupational_area_8
+- 1.7763568394002505e-15 * occupational_area_0 * occupational_area_9
+- 1.2132161015692053 * power(occupational_area_1, 2)
++ 1.6653345369377348e-15 * occupational_area_1 * occupational_area_2
++ 4.440892098500626e-16 * occupational_area_1 * occupational_area_3
+- 5.329070518200751e-15 * occupational_area_1 * occupational_area_4
++ 5.329070518200751e-15 * occupational_area_1 * occupational_area_5
+- 1.1102230246251565e-15 * occupational_area_1 * occupational_area_6
+- 1.442259197743847 * power(occupational_area_2, 2)
+- 1.3729741078391113 * power(occupational_area_3, 2)
++ 0.5319621720965231 * power(occupational_area_4, 2)
++ 0.03849252272430815 * power(occupational_area_5, 2)
++ 0.9318655424748247 * power(occupational_area_6, 2)
+- 0.3627105585359396 * power(occupational_area_7, 2)
++ 1.4984837861797804 * power(occupational_area_8, 2)
+- 0.9197676764987069 * power(occupational_area_9, 2)
+- 9.310005070239935e-05 * power(age, 3)
++ 0.003014803670341848 * power(age, 2) * highest_education_1
+- 0.00014484340244647065 * power(age, 2) * highest_education_2
+- 0.0002503515342359569 * power(age, 2) * highest_education_3
++ 0.004792502892841249 * power(age, 2) * highest_education_4
++ 0.0026384094956899418 * power(age, 2) * highest_education_5
++ 0.004647843117692507 * power(age, 2) * highest_education_6
++ 0.004146241416016938 * power(age, 2) * occupational_area_0
+- 0.0015012326819934252 * power(age, 2) * occupational_area_1
+- 0.001082168968624675 * power(age, 2) * occupational_area_2
++ 0.0008702794948687448 * power(age, 2) * occupational_area_3
++ 0.003323433000406162 * power(age, 2) * occupational_area_4
++ 0.002997314485264968 * power(age, 2) * occupational_area_5
++ 0.0015802423711577251 * power(age, 2) * occupational_area_6
++ 0.0013659126119205528 * power(age, 2) * occupational_area_7
++ 0.004201541081745808 * power(age, 2) * occupational_area_8
+- 0.0012031986083511081 * power(age, 2) * occupational_area_9
+- 0.037248108575150304 * age * power(highest_education_1, 2)
++ 0.12160552401885438 * age * highest_education_1 * occupational_area_0
+- 0.0394393144550735 * age * highest_education_1 * occupational_area_1
+- 0.0006744310906758311 * age * highest_education_1 * occupational_area_2
++ 0.03223066722754678 * age * highest_education_1 * occupational_area_3
+- 0.00999591649420832 * age * highest_education_1 * occupational_area_4
+- 0.08560158883547495 * age * highest_education_1 * occupational_area_5
++ 0.03762024451834092 * age * highest_education_1 * occupational_area_6
+- 0.029252887527267513 * age * highest_education_1 * occupational_area_7
+- 0.05373688616375344 * age * highest_education_1 * occupational_area_8
+- 0.01000351977431478 * age * highest_education_1 * occupational_area_9
++ 0.11388943452830277 * age * power(highest_education_2, 2)
++ 0.1460718347010181 * age * highest_education_2 * occupational_area_0
++ 0.024268556631153723 * age * highest_education_2 * occupational_area_1
++ 0.024800223622909644 * age * highest_education_2 * occupational_area_2
+- 0.045829677778192135 * age * highest_education_2 * occupational_area_3
++ 0.012031220614062386 * age * highest_education_2 * occupational_area_4
+- 0.07609502974510673 * age * highest_education_2 * occupational_area_5
++ 0.062005327775061736 * age * highest_education_2 * occupational_area_6
+- 0.006027071469758644 * age * highest_education_2 * occupational_area_7
+- 0.0422542725439613 * age * highest_education_2 * occupational_area_8
++ 0.014918322722438482 * age * highest_education_2 * occupational_area_9
++ 0.11734618392433654 * age * power(highest_education_3, 2)
++ 0.03730779923163745 * age * highest_education_3 * occupational_area_0
+- 0.04288189139253203 * age * highest_education_3 * occupational_area_1
++ 0.07345728385266212 * age * highest_education_3 * occupational_area_2
++ 0.0025957124086156136 * age * highest_education_3 * occupational_area_3
+- 0.02589880975300684 * age * highest_education_3 * occupational_area_4
+- 0.13146612432143043 * age * highest_education_3 * occupational_area_5
++ 0.13791407590292168 * age * highest_education_3 * occupational_area_6
+- 0.005743104939226057 * age * highest_education_3 * occupational_area_7
++ 0.014564987259525264 * age * highest_education_3 * occupational_area_8
++ 0.0574962556744818 * age * highest_education_3 * occupational_area_9
+- 0.13879643345134712 * age * power(highest_education_4, 2)
+- 0.5054879280809619 * age * highest_education_4 * occupational_area_0
++ 0.18791277591283434 * age * highest_education_4 * occupational_area_1
++ 0.06706455107262954 * age * highest_education_4 * occupational_area_2
+- 0.029439590707422577 * age * highest_education_4 * occupational_area_3
++ 0.010087665287410758 * age * highest_education_4 * occupational_area_4
+- 0.00298668952028025 * age * highest_education_4 * occupational_area_5
++ 0.06104969724544816 * age * highest_education_4 * occupational_area_6
+- 0.007398883415100588 * age * highest_education_4 * occupational_area_7
++ 0.021383642351721743 * age * highest_education_4 * occupational_area_8
++ 0.059018326402185885 * age * highest_education_4 * occupational_area_9
+- 0.04802614972543745 * age * power(highest_education_5, 2)
++ 0.07787016286143661 * age * highest_education_5 * occupational_area_0
++ 0.0022018633507095257 * age * highest_education_5 * occupational_area_1
++ 0.04809603821890146 * age * highest_education_5 * occupational_area_2
+- 0.046910515108279524 * age * highest_education_5 * occupational_area_3
+- 0.005975428637207847 * age * highest_education_5 * occupational_area_4
+- 0.14039386751466928 * age * highest_education_5 * occupational_area_5
++ 0.048187501847542336 * age * highest_education_5 * occupational_area_6
+- 0.018707994448829493 * age * highest_education_5 * occupational_area_7
+- 0.01385958521050859 * age * highest_education_5 * occupational_area_8
++ 0.0014656749163605154 * age * highest_education_5 * occupational_area_9
+- 0.12188616039494374 * age * power(highest_education_6, 2)
+- 0.035743450871608226 * age * highest_education_6 * occupational_area_1
+- 0.11254066059443044 * age * highest_education_6 * occupational_area_2
++ 0.13948636359216382 * age * highest_education_6 * occupational_area_3
+- 0.050003858753260334 * age * highest_education_6 * occupational_area_4
++ 0.3854078889964395 * age * highest_education_6 * occupational_area_5
+- 0.4001524278215219 * age * highest_education_6 * occupational_area_6
++ 0.0709536841931229 * age * highest_education_6 * occupational_area_7
+- 0.07002211841512893 * age * highest_education_6 * occupational_area_8
+- 0.04927158072060199 * age * highest_education_6 * occupational_area_9
+- 0.1226326072674338 * age * power(occupational_area_0, 2)
++ 0.09631853917584544 * age * power(occupational_area_1, 2)
++ 0.10020300508162638 * age * power(occupational_area_2, 2)
++ 0.052132959634815956 * age * power(occupational_area_3, 2)
+- 0.06975512773637527 * age * power(occupational_area_4, 2)
+- 0.051135410940788356 * age * power(occupational_area_5, 2)
+- 0.053375580532431466 * age * power(occupational_area_6, 2)
++ 0.003823742390676177 * age * power(occupational_area_7, 2)
+- 0.14392423272138655 * age * power(occupational_area_8, 2)
++ 0.07362347922062829 * age * power(occupational_area_9, 2)
++ 0.1675700096255987 * power(highest_education_1, 3)
+- 1.5982263477154466 * power(highest_education_1, 2) * occupational_area_0
++ 0.687210295407825 * power(highest_education_1, 2) * occupational_area_1
++ 0.1516969271989334 * power(highest_education_1, 2) * occupational_area_2
++ 0.1645888621584036 * power(highest_education_1, 2) * occupational_area_3
+- 0.19489572226667637 * power(highest_education_1, 2) * occupational_area_4
++ 0.9656276763575202 * power(highest_education_1, 2) * occupational_area_5
+- 0.6161695419457938 * power(highest_education_1, 2) * occupational_area_6
++ 0.16664506611974056 * power(highest_education_1, 2) * occupational_area_7
++ 0.2798775504781442 * power(highest_education_1, 2) * occupational_area_8
++ 0.1612152438329938 * power(highest_education_1, 2) * occupational_area_9
+- 1.5982263477154437 * highest_education_1 * power(occupational_area_0, 2)
++ 0.6872102954078205 * highest_education_1 * power(occupational_area_1, 2)
++ 0.15169692719892852 * highest_education_1 * power(occupational_area_2, 2)
++ 0.16458886215839397 * highest_education_1 * power(occupational_area_3, 2)
+- 0.19489572226666715 * highest_education_1 * power(occupational_area_4, 2)
++ 0.965627676357514 * highest_education_1 * power(occupational_area_5, 2)
+- 0.6161695419457862 * highest_education_1 * power(occupational_area_6, 2)
++ 0.16664506611970187 * highest_education_1 * power(occupational_area_7, 2)
++ 0.2798775504781442 * highest_education_1 * power(occupational_area_8, 2)
++ 0.1612152438329944 * highest_education_1 * power(occupational_area_9, 2)
+- 1.6271985286951012 * power(highest_education_2, 3)
+- 2.429996935967028 * power(highest_education_2, 2) * occupational_area_0
+- 0.21141877036178236 * power(highest_education_2, 2) * occupational_area_1
+- 0.11148460515891001 * power(highest_education_2, 2) * occupational_area_2
++ 0.9758020712569537 * power(highest_education_2, 2) * occupational_area_3
+- 0.1022466992242224 * power(highest_education_2, 2) * occupational_area_4
++ 1.04585290655938 * power(highest_education_2, 2) * occupational_area_5
+- 0.8666487953991993 * power(highest_education_2, 2) * occupational_area_6
++ 0.025483604570416124 * power(highest_education_2, 2) * occupational_area_7
++ 0.37082235813051967 * power(highest_education_2, 2) * occupational_area_8
+- 0.32336366310117964 * power(highest_education_2, 2) * occupational_area_9
+- 2.4299969359670306 * highest_education_2 * power(occupational_area_0, 2)
+- 0.2114187703617859 * highest_education_2 * power(occupational_area_1, 2)
+- 0.11148460515891623 * highest_education_2 * power(occupational_area_2, 2)
++ 0.9758020712569537 * highest_education_2 * power(occupational_area_3, 2)
+- 0.10224669922422668 * highest_education_2 * power(occupational_area_4, 2)
++ 1.0458529065593836 * highest_education_2 * power(occupational_area_5, 2)
+- 0.866648795399202 * highest_education_2 * power(occupational_area_6, 2)
++ 0.025483604570419066 * highest_education_2 * power(occupational_area_7, 2)
++ 0.37082235813049924 * highest_education_2 * power(occupational_area_8, 2)
+- 0.32336366310116926 * highest_education_2 * power(occupational_area_9, 2)
+- 1.3306171748677453 * power(highest_education_3, 3)
++ 0.0008479045279935801 * power(highest_education_3, 2) * occupational_area_0
++ 1.0122367544870565 * power(highest_education_3, 2) * occupational_area_1
+- 1.2024134197734433 * power(highest_education_3, 2) * occupational_area_2
+- 0.0631878747975906 * power(highest_education_3, 2) * occupational_area_3
++ 0.29398457612817097 * power(highest_education_3, 2) * occupational_area_4
++ 1.7882109637482944 * power(highest_education_3, 2) * occupational_area_5
+- 1.848561554501695 * power(highest_education_3, 2) * occupational_area_6
++ 0.09636905142957321 * power(highest_education_3, 2) * occupational_area_7
+- 0.7059284476412632 * power(highest_education_3, 2) * occupational_area_8
+- 0.7021751284748228 * power(highest_education_3, 2) * occupational_area_9
++ 0.0008479045279927871 * highest_education_3 * power(occupational_area_0, 2)
++ 1.01223675448706 * highest_education_3 * power(occupational_area_1, 2)
+- 1.2024134197734526 * highest_education_3 * power(occupational_area_2, 2)
+- 0.06318787479758928 * highest_education_3 * power(occupational_area_3, 2)
++ 0.2939845761281743 * highest_education_3 * power(occupational_area_4, 2)
++ 1.7882109637482972 * highest_education_3 * power(occupational_area_5, 2)
+- 1.848561554501694 * highest_education_3 * power(occupational_area_6, 2)
++ 0.09636905142956297 * highest_education_3 * power(occupational_area_7, 2)
+- 0.7059284476412521 * highest_education_3 * power(occupational_area_8, 2)
+- 0.7021751284748221 * highest_education_3 * power(occupational_area_9, 2)
++ 1.5405855550817216 * power(highest_education_4, 3)
++ 6.468893436287085 * power(highest_education_4, 2) * occupational_area_0
+- 2.530627463407621 * power(highest_education_4, 2) * occupational_area_1
+- 1.0878389634147445 * power(highest_education_4, 2) * occupational_area_2
++ 0.3987091886109302 * power(highest_education_4, 2) * occupational_area_3
+- 0.07055760481622106 * power(highest_education_4, 2) * occupational_area_4
+- 0.04062466187542489 * power(highest_education_4, 2) * occupational_area_5
+- 0.9287052227610099 * power(highest_education_4, 2) * occupational_area_6
++ 0.2805277128851427 * power(highest_education_4, 2) * occupational_area_7
+- 0.17418252815999286 * power(highest_education_4, 2) * occupational_area_8
+- 0.7750083382664248 * power(highest_education_4, 2) * occupational_area_9
++ 6.468893436287076 * highest_education_4 * power(occupational_area_0, 2)
+- 2.5306274634076233 * highest_education_4 * power(occupational_area_1, 2)
+- 1.0878389634147394 * highest_education_4 * power(occupational_area_2, 2)
++ 0.39870918861093224 * highest_education_4 * power(occupational_area_3, 2)
+- 0.07055760481622106 * highest_education_4 * power(occupational_area_4, 2)
+- 0.040624661875425 * highest_education_4 * power(occupational_area_5, 2)
+- 0.9287052227610099 * highest_education_4 * power(occupational_area_6, 2)
++ 0.2805277128851427 * highest_education_4 * power(occupational_area_7, 2)
+- 0.17418252815999274 * highest_education_4 * power(occupational_area_8, 2)
+- 0.7750083382664248 * highest_education_4 * power(occupational_area_9, 2)
++ 0.4662551435511328 * power(highest_education_5, 3)
+- 0.13139443842119006 * power(highest_education_5, 2) * occupational_area_0
+- 0.16992954363947935 * power(highest_education_5, 2) * occupational_area_1
+- 0.9948155120246125 * power(highest_education_5, 2) * occupational_area_2
++ 0.18227560818760224 * power(highest_education_5, 2) * occupational_area_3
+- 0.08337169037567028 * power(highest_education_5, 2) * occupational_area_4
++ 1.986447166522278 * power(highest_education_5, 2) * occupational_area_5
+- 0.5704111043556288 * power(highest_education_5, 2) * occupational_area_6
++ 0.18017677899167037 * power(highest_education_5, 2) * occupational_area_7
++ 0.09971340775854977 * power(highest_education_5, 2) * occupational_area_8
+- 0.032435529092484275 * power(highest_education_5, 2) * occupational_area_9
+- 0.13139443842118934 * highest_education_5 * power(occupational_area_0, 2)
+- 0.16992954363947935 * highest_education_5 * power(occupational_area_1, 2)
+- 0.9948155120246125 * highest_education_5 * power(occupational_area_2, 2)
++ 0.18227560818760224 * highest_education_5 * power(occupational_area_3, 2)
+- 0.08337169037567028 * highest_education_5 * power(occupational_area_4, 2)
++ 1.986447166522278 * highest_education_5 * power(occupational_area_5, 2)
+- 0.5704111043556288 * highest_education_5 * power(occupational_area_6, 2)
++ 0.18017677899167037 * highest_education_5 * power(occupational_area_7, 2)
++ 0.09971340775855041 * highest_education_5 * power(occupational_area_8, 2)
+- 0.032435529092487064 * highest_education_5 * power(occupational_area_9, 2)
++ 0.7834049953042951 * power(highest_education_6, 3)
+- 0.0006873740552222698 * power(highest_education_6, 2) * occupational_area_1
++ 1.8025963754289451 * power(highest_education_6, 2) * occupational_area_2
+- 3.0311619632553946 * power(highest_education_6, 2) * occupational_area_3
++ 0.6890493126511259 * power(highest_education_6, 2) * occupational_area_4
+- 5.707021528587756 * power(highest_education_6, 2) * occupational_area_5
++ 5.762361761438148 * power(highest_education_6, 2) * occupational_area_6
+- 1.1119127725325595 * power(highest_education_6, 2) * occupational_area_7
++ 1.6281814456138106 * power(highest_education_6, 2) * occupational_area_8
++ 0.75199973860321 * power(highest_education_6, 2) * occupational_area_9
+- 0.0006873740552243547 * highest_education_6 * power(occupational_area_1, 2)
++ 1.8025963754289462 * highest_education_6 * power(occupational_area_2, 2)
+- 3.031161963255401 * highest_education_6 * power(occupational_area_3, 2)
++ 0.6890493126511307 * highest_education_6 * power(occupational_area_4, 2)
+- 5.707021528587752 * highest_education_6 * power(occupational_area_5, 2)
++ 5.762361761438148 * highest_education_6 * power(occupational_area_6, 2)
+- 1.1119127725325533 * highest_education_6 * power(occupational_area_7, 2)
++ 1.6281814456138042 * highest_education_6 * power(occupational_area_8, 2)
++ 0.7519997386032139 * highest_education_6 * power(occupational_area_9, 2)
++ 2.31012361871141 * power(occupational_area_0, 3)
+- 1.2132161015692131 * power(occupational_area_1, 3)
+- 1.4422591977438481 * power(occupational_area_2, 3)
+- 1.3729741078391111 * power(occupational_area_3, 3)
++ 0.5319621720965211 * power(occupational_area_4, 3)
++ 0.03849252272431914 * power(occupational_area_5, 3)
++ 0.931865542474828 * power(occupational_area_6, 3)
+- 0.3627105585359781 * power(occupational_area_7, 3)
++ 1.498483786179761 * power(occupational_area_8, 3)
+- 0.9197676764987084 * power(occupational_area_9, 3)
